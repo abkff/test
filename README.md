@@ -1,27 +1,27 @@
 # Application de gestion de Vehicule et de conducteur
 
 ### Description :
-  l'application permet de gérer une flotte de vehicules et leurs conducteurs associés.\
-  [Demo](https://abkff.fr/vtc/) (les fonctionalité d'ajout et de suppréssion des conducteurs et vehicules sont désactivé).
+ L’application permet de gérer une flotte de véhicules et leurs conducteurs associés. Vous pouvez consulter la [Demonstration ici](https://abkff.fr/vtc/)\
+ Les fonctionnalités d’ajout et de suppression des conducteurs et véhicules sont désactivées pour le demonstration.
 
 ### Installation :
-  -le fichier database.sql du dossier ressources contient le necesaire pour créer la base de donnée\
-  -la configuration ce fait dans le fichier config.ini du répertoire config, on y configure:\
-    -le chemin d'accée\
-    -le nom du logo qui est à mettre dans ressources\
-    -l'accée à la base de donnée\
+  * Le fichier database.sql du dossier “ressources” contient les éléments nécessaires pour créer la base de données.
+  * La configuration se fait dans le fichier config.ini du répertoire “config”. Vous y configurez :
+      - Le chemin d’accès.
+      - Le nom du logo (à placer dans le dossier “ressources”).
+      - L’accès à la base de données.
 
 ### Installation :
-  1-création des conducteurs\
-  2-création des vehicules\
-  3-création des associations conducteur <-> vehicule\
+  1. création des conducteurs
+  2. création des vehicules
+  3. création des associations conducteur <-> vehicule
 
 
 ### To-Do :
-- [x] Possibilité d'ajouter des conducteurs
-- [x] Possibilité d'ajouter des vehicules
-- [x] Possibilité de créer les associations
-- [x] Controle des conducteurs et vehicules disponible pour éviter les doublon
-- [x] Page admin récapitulatif
-- [ ] Ajout gestion utilisateur 
+  -  [x] Possibilité d’ajouter des conducteurs.
+  -  [x] Possibilité d’ajouter des véhicules.
+  -  [x] Possibilité de créer les associations.
+  -  [x] Controle des conducteurs et vehicules disponible pour éviter les doublon
+  -  [x] Page récapitulative pour l’administrateur.
+  -  [ ] Ajout de la gestion des utilisateurs.
 
