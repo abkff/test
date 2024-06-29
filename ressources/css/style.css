@@ -1,0 +1,52 @@
+.tableau {
+  margin: 2vh 0;
+  text-align: center;
+  vertical-align: middle;
+}
+
+label,
+button {
+  margin: 1vh 0;
+}
+
+nav .admin {
+  justify-content: end;
+}
+
+.separator {
+  margin-inline: auto;
+  margin-block: 2rem;
+  height: 2px;
+  background-color: red;
+  width: 20%;
+}
+
+.table tbody.tableSeparator {
+  color: hsla(0, 100%, 50%, 0.35);
+}
+
+.photo-conducteur{
+  width: 10vh;
+  height: 10vh;
+  object-fit: contain;
+}
+
+.photo-vehicule{
+  width: 10vh;
+  height: 10vh;
+  object-fit: contain;
+}
+
+.body{
+  min-height: 100%;
+}
+
+.footer{
+  text-decoration: none;
+  color: rgba(121, 116, 121, 0.36);
+}
+
+.footer{
+  text-decoration: underline;
+  color: black;
+}
