@@ -1,8 +1,8 @@
 # Application de gestion de Vehicule et de conducteur
 
 ### Description :
-  l'application permet de gérer une flotte de vehicules et leurs conducteurs associés.
-  [Demo disponible](htts://abkff.fr/vtc). (les fonctionalité d'ajout et de suppréssion des conducteurs et vehicules sont désactivé).
+  l'application permet de gérer une flotte de vehicules et leurs conducteurs associés.\
+  [Demo](https://abkff.fr/vtc/) (les fonctionalité d'ajout et de suppréssion des conducteurs et vehicules sont désactivé).
 
 ### Installation :
   -le fichier database.sql du dossier ressources contient le necesaire pour créer la base de donnée\
