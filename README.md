@@ -4,7 +4,7 @@
  L’application permet de gérer une flotte de véhicules et leurs conducteurs associés. Vous pouvez consulter la [Demonstration ici](https://abkff.fr/vtc/)\
  Les fonctionnalités d’ajout et de suppression des conducteurs et véhicules sont désactivées pour le demonstration.
 
-### Installation :
+### Contenue :
   * Le fichier database.sql du dossier “ressources” contient les éléments nécessaires pour créer la base de données.
   * La configuration se fait dans le fichier config.ini du répertoire “config”. Vous y configurez :
       - Le chemin d’accès.
